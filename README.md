@@ -1,7 +1,7 @@
 <div align = center>
 <img src="https://i.gifer.com/2iFa.gif">
 
-    :hearts: Bienvenidos a mi perfil :hearts:
+    ♥ Bienvenidos a mi perfil ♥
 </div>
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/QYw8eTzJP9) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/YiruYuriUwU) 
