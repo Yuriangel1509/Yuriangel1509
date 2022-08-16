@@ -1,5 +1,5 @@
 <div align = center>
-![image]("https://i.gifer.com/2iFa.gif")
+![](https://i.gifer.com/2iFa.gif)
 
     ♥ Bienvenidos a mi perfil ♥
 </div>
