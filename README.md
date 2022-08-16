@@ -1,5 +1,6 @@
 <div align = center>
-<img src="https://i.gifer.com/2iFa.gif">
+
+![VeC](https://user-images.githubusercontent.com/101533319/185003349-b5ea8f2e-2dce-49f4-9c34-d5f5c13c9ae1.gif)
 
     ♥ Bienvenidos a mi perfil ♥
 </div>
